@@ -1,0 +1,11 @@
+HOTEL|H001|Gran Sol|Barcelona|100.0|3|true
+HOTEL|H002|Lujo Suites|Madrid|200.0|5|false
+APARTAMENTO|A001|Depto Centro|Lima|60.0|2|true
+CABANA|C001|Cabaña Lago|Córdoba|80.0|premium|8
+APARTAMENTO|A002|Penthouse|Santiago|120.0|3|false
+HOTEL|H003|Hostal Verde|Quito|85.0|2|true
+CABANA|C002|Cabaña Eco|Arequipa|50.0|rural|4
+HOTEL|H004|City View|Valparaíso|150.0|4|true
+APARTAMENTO|A003|Loft Norte|Bogotá|45.0|1|true
+CABANA|C003|Cabaña Premium Suite|Bariloche|200.0|Premium Suite|10
+HOTEL|123|jUAN|SFUIWE|324234.0|5|true
