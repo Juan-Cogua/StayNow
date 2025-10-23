@@ -46,7 +46,7 @@ public class Cabana extends Alojamiento {
      */
     @Override
     public String toTXT() {
-        return String.join("|",
+        return String.join(",",
             "CABANA",
             codigo,
             nombre,

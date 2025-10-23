@@ -57,7 +57,6 @@ public class Reserva {
      * @version 1.0
      */
     public String toTXT() {
-        return String.join("|",
         return String.join(",",
             cliente.getId(),
             alojamiento.getCodigo(),
