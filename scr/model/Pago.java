@@ -40,8 +40,9 @@ public class Pago {
      * @return línea TXT
      * @version 1.0
      */
+
     public String toTXT() {
-        return String.join("|",
+        return String.join(",",
             idPago,
             String.valueOf(monto),
             metodoPago,

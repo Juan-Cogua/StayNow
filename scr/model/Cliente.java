@@ -29,7 +29,8 @@ public class Cliente {
      * @return línea TXT con id|nombre|email
      * @version 1.0
      */
+
     public String toTXT() {
-        return String.join("|", id, nombre, email);
+        return String.join(",", id, nombre, email);
     }
 }

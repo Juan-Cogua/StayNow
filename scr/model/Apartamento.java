@@ -48,7 +48,7 @@ public class Apartamento extends Alojamiento {
      */
     @Override
     public String toTXT() {
-        return String.join("|",
+        return String.join(",",
             "APARTAMENTO",
             codigo,
             nombre,

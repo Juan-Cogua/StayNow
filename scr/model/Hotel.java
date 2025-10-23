@@ -46,7 +46,7 @@ public class Hotel extends Alojamiento {
      */
     @Override
     public String toTXT() {
-        return String.join("|",
+        return String.join(",",
             "HOTEL",
             codigo,
             nombre,

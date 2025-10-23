@@ -4,7 +4,7 @@ import java.util.Objects;
 
 /**
  * Clase abstracta Alojamiento que define los atributos y comportamiento base.
- * @author StayNow
+ * @author Juan Cogua
  * @version 1.0
  */
 public abstract class Alojamiento {

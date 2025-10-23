@@ -58,6 +58,7 @@ public class Reserva {
      */
     public String toTXT() {
         return String.join("|",
+        return String.join(",",
             cliente.getId(),
             alojamiento.getCodigo(),
             fechaEntrada.format(FMT),

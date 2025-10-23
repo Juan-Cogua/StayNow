@@ -1,11 +1,13 @@
-CL001|Ana Gómez|ana.gomez@example.com
-CL002|Luis Pérez|luis.perez@example.com
-CL003|María Rodríguez|maria.rodriguez@example.com
-CL004|Juan Martínez|juan.martinez@example.com
-CL005|Sofía López|sofia.lopez@example.com
-CL006|Carlos Fernández|carlos.fernandez@example.com
-CL007|Lucía Díaz|lucia.diaz@example.com
-CL008|Miguel Torres|miguel.torres@example.com
-CL009|Valeria Ramírez|valeria.ramirez@example.com
-CL010|Diego Núñez|diego.nunez@example.com
-123|juan|awuh@243
+ID,Nombre,Email
+CL001,Ana Gómez,ana.gomez@example.com
+CL002,Luis Pérez,luis.perez@example.com
+CL003,María Rodríguez,maria.rodriguez@example.com
+CL004,Juan Martínez,juan.martinez@example.com
+CL005,Sofía López,sofia.lopez@example.com
+CL006,Carlos Fernández,carlos.fernandez@example.com
+CL007,Lucía Díaz,lucia.diaz@example.com
+CL008,Miguel Torres,miguel.torres@example.com
+CL009,Valeria Ramírez,valeria.ramirez@example.com
+CL010,Diego Núñez,diego.nunez@example.com
+123,juan,awuh@243
+123,juan,123@iujnk43
